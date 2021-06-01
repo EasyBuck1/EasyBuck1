@@ -1,0 +1,17 @@
+X=MsgBox("Avast Mini-player Started!",1+64,"Avast Mini-player")
+
+X=MsgBox("would You like to scan for viruses?",3+32,"Avast Mini-player")
+
+X=MsgBox("Scanning...",1+64,"Avast Mini-player")
+
+X=MsgBox("This system is Unsafe!",1+48,"Avast Mini-player")
+
+X=MsgBox("Viruses:18",1+16,"Avast Mini-player")
+
+X=MsgBox("Delete 18 Viruses?",3+16,"Avast Mini-player")
+
+X=MsgBox("Deleting...",1+16,"Avast Mini-player")
+
+X=MsgBox("deleted!",1+16,"Avast Mini-player")
+
+X=MsgBox("Would you like to quit Avast Mini-player?",1+16,"Avast Mini-player")
